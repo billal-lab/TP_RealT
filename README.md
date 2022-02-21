@@ -1,10 +1,10 @@
 # TP_RealT
 
 
-Pump 1 started pumping 10
-Pump 1 has finished pumping  11:57:09
-**** tank is at 10 ****
-Pump 2 started pumping 20
+- Pump 1 started pumping 10
+- Pump 1 has finished pumping  11:57:09
+- **** tank is at 10 ****
+- Pump 2 started pumping 20
 Pump 2 has finished pumping  11:57:17
 **** tank is at 30 ****
 Machine 1 producing 1 motor
